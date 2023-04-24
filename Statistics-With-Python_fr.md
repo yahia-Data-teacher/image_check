@@ -29,3 +29,15 @@
 
 # image_check 5
 ![Flask_tree](https://user-images.githubusercontent.com/123752166/224330105-f14ada9a-52f0-4f9a-a655-27079f2bee11.png)
+
+# image_check 6
+![image](https://user-images.githubusercontent.com/123752166/233992948-dba2c8cb-4cc0-44fc-b3a3-b1eebb8852d2.png)
+![image](https://user-images.githubusercontent.com/123752166/233993366-30979533-181a-42e3-bb75-b723ca201469.png)
+![image](https://user-images.githubusercontent.com/123752166/233993980-7aa406d9-dadc-4e26-904f-2a27c7535877.png)
+![image](https://user-images.githubusercontent.com/123752166/233994095-494ff3e6-ec1f-4180-b408-99db605bb89a.png)
+![image](https://user-images.githubusercontent.com/123752166/233994251-2e885a20-6c09-4ec1-a28a-58f644c38aff.png)
+
+
+
+
+
